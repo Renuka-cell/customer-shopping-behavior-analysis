@@ -396,6 +396,10 @@ Contains the Power BI interactive dashboard.
 
 Source dataset used for the analysis.
 
+### `Customer_Shopping_behavior_Dashboard_Image.png`
+
+Image source of the Dashboard
+
 ### `Customer_Shopping_Behavior_Analysis.pdf`
 
 Project report containing:
