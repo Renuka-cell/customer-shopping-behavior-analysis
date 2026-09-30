@@ -363,6 +363,8 @@ Customer-Shopping-Behavior-Analysis/
 │
 ├── customer_behavior_dashboard.pbix
 │
+├── Customer_Shopping_behavior_Dashboard_Image.png
+│
 └── Customer_Shopping_Behavior_Analysis.pdf
 ```
 
